@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/LumQerimi/toDoList/issues"
   },
-  "homepage": "https://github.com/LumQerimi/toDoList#readme"
+  "homepage": "https://github.com/LumQerimi/toDoList#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
